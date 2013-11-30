@@ -4,7 +4,8 @@
   <remote name="ASKP"
            fetch="git://github.com/AmperificSuperKANG/" /> 
 
-  <project path="tuna" name="kernel_tuna" remote="ASKP" />
+  <project path="tuna" name="kernel_tuna" remote="ASKP" branch="kk4.4" />
+  <project path="mako" name="android_kernel_google_msm" remote="ASKP" branch="mainline" />
 
 </manifest>
 
