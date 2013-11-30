@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="ASKP"
+           fetch="git://github.com/AmperificSuperKANG/" /> 
+
+  <project path="tuna" name="kernel_tuna" remote="ASKP" />
+
+</manifest>
+
